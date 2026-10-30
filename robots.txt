@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://croftelinstall.se/sitemap.xml
